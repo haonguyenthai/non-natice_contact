@@ -1,4 +1,4 @@
-# non-natice_contact
+# non-native_contact
 Non-native contact visualization
 import pandas as pd
 import numpy as np
